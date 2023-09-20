@@ -1,0 +1,11 @@
+line {
+    stroke: lightcoral;
+}
+
+.gray {
+    stroke: gray;
+}
+
+.half-opacity {
+    stroke-opacity: 50;
+}
